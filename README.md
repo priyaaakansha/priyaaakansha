@@ -6,7 +6,6 @@ My name is Aakansha Priya, and I currently work at Community Classroom as the De
 [![Hashnode Badge](https://img.shields.io/badge/-@aakanshapriya-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://hashnode.com/@AakanshaPriya)](https://hashnode.com/@AakanshaPriya)
 [![Gmail Badge](https://img.shields.io/badge/-aakanshapriya2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aakanshapriya2000@gmail.com)](mailto:aakanshapriya2000@gmail.com)
 
-
 ## ⚡ Technologies
 
 ### Language :
