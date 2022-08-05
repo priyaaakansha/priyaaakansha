@@ -59,7 +59,7 @@ My name is Aakansha Priya, and I currently work at Community Classroom as the De
 <p align="left">
 <a href="https://aakanshapriya.com/my-first-kubecon-experience" title="My First Kubecon Experience"><img src="https://aakanshapriya.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1653766498179%2Fsrh0LAA8i.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="My First Kubecon Experience" width="250px" align="left" /></a>
 <a href="https://aakanshapriya.com/my-first-kubecon-experience" title="My First Kubecon Experience"><strong>My First Kubecon Experience</strong></a>
-<br/>What is Kubecon?<br>It's the flagship conference of the Cloud Native Computing Foundation that brings together top engineers from prominent open source and cloud native communities like Red Hat, Cisco, Salesforce, Google Cloud etc ( PS: the list is huge ) in a unique setting to enhance cloud native computing education</p>
+<br/>What is Kubecon?<br>It's the flagship conference of the Cloud Native Computing Foundation that brings together top engineers from prominent open source and cloud native communities like Red Hat, Cisco, Salesforce, Google Cloud etc ( PS: the list is huge ) in a unique setting to enhance cloud native computing education.</p>
 <br>
 <p align="left">
 <a href="https://aakanshapriya.com/power-of-tech-communities" title="Power of tech communities"><img src="https://aakanshapriya.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1657462844355%2FQvQer035F.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Power of tech communities" width="250px" align="left" /></a>
