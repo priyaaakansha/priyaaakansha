@@ -1,6 +1,6 @@
 ## Hi, I am Aakansha! Great to see you here! 👋
 
-My name is Aakansha Priya, and I currently work at Community Classroom as the Developer Manager. I have experience developing projects as a frontend developer. I love technology, and I'm interested in communities and devRel. I'm always up for working with others on new initiatives and concepts. Learn more about me here, and feel free to contact me:
+My name is Aakansha Priya, and I currently work at Hashnode as a Community Manager & Community Classroom as the Developer Manager. I have experience developing projects as a frontend developer. I love technology, and I'm interested in communities and devRel. I'm always up for working with others on new initiatives and concepts. Learn more about me here, and feel free to contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-aakanshapriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakansha-priya-1782b91a0/)](https://www.linkedin.com/in/aakansha-priya-1782b91a0/)
 [![Hashnode Badge](https://img.shields.io/badge/-@aakanshapriya-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://hashnode.com/@AakanshaPriya)](https://hashnode.com/@AakanshaPriya)
