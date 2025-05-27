@@ -1,8 +1,9 @@
 ## Hi, I am Aakansha! Great to see you here! 👋
 
-### 🥑 Developer Relations at [EmpathyOps](https://empathyops.io/) <br>
+### Solution Architect at [Dash0](https://www.dash0.com/) <br>
 
 - ☁️ CNCF Ambassador <br>
+- 🥑 Developer Relations
 - 👾 KCNA and CKA certified
 - 🦸🏻‍♀️ Co-organizer [KubeHuddle, Toronto](https://ca.kubehuddle.com/) <br>
 - ✈️ Love travelling & speaking at conferences about DevOps & human side of tech
